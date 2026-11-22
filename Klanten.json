@@ -1,0 +1,18 @@
+[
+    {
+        "klant_id": 1,
+        "naam": "Cristiano Ronaldo",
+        "telefoon": "0612345678",
+        "vaste_klant": true,
+        "geblokkeerd": false,
+        "notities": "Huurt regelmatig een e-bike in het weekend."
+    },
+    {
+        "klant_id": 2,
+        "naam": "Lionel Messi",
+        "telefoon": "0687654321",
+        "vaste_klant": false,
+        "geblokkeerd": true,
+        "notities": "Fiets BK-099 vorige maand 3 dagen te laat ingeleverd."
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "serial_code": "BK-101",
+        "soort": "Herenfiets",
+        "huurprijs": 15.0,
+        "koopprijs": 450.0,
+        "borg": 120.0,
+        "status": "beschikbaar"
+    },
+    {
+        "serial_code": "BK-102",
+        "soort": "Damesfiets",
+        "huurprijs": 15.0,
+        "koopprijs": 450.0,
+        "borg": 120.0,
+        "status": "beschikbaar"
+    },
+    {
+        "serial_code": "BK-201",
+        "soort": "Elektrische fiets",
+        "huurprijs": 30.0,
+        "koopprijs": 1450.0,
+        "borg": 300.0,
+        "status": "verkocht"
+    },
+    {
+        "serial_code": "BK-125",
+        "soort": "Motor",
+        "huurprijs": 80.0,
+        "koopprijs": 8000.0,
+        "borg": 700.0,
+        "status": "beschikbaar"
+    }
+]

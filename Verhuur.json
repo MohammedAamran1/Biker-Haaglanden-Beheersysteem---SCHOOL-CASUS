@@ -1,0 +1,12 @@
+[
+    {
+        "huur_id": 1,
+        "klant_id": 3,
+        "serial_code": "BK-102",
+        "startdatum": "2026-11-21",
+        "einddatum": "2026-11-26",
+        "borg": 50.0,
+        "totaalprijs": 125.0,
+        "status": "geannuleerd"
+    }
+]
